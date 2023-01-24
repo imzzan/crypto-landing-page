@@ -6,7 +6,7 @@ import { Button1, Button2 } from "../atoms";
 const HeroSection = () => {
   return (
     <div
-      className="flex flex-col-reverse pt-24 gap-5 sm:pt-36 lg:pt-44 sm:flex-row md:justify-between items-center"
+      className="flex flex-col-reverse pt-36 gap-5 sm:pt-36 lg:pt-44 sm:flex-row md:justify-between items-center"
       id="home"
     >
       <div className="sm:w-[50%] lg:w-[40%]">
